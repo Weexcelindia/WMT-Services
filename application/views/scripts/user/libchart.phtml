@@ -1,0 +1,18 @@
+<?php
+include "libchart/classes/libchart.php"; //correct include path ???
+
+header("Content-type: image/png");
+
+$chart = new PieChart(900, 600);
+
+$dataSet = new XYDataSet();
+$dataSet->addPoint(new Point("Facebook (80)", 500));
+$dataSet->addPoint(new Point("google+ (75)", 500));
+$dataSet->addPoint(new Point("Twitter (50)", 500));
+$dataSet->addPoint(new Point("Audio (30)", 100));
+#$dataSet->addPoint(new Point("Video (30)", 500));
+$chart->setDataSet($dataSet);
+
+$chart->setTitle("User agents for www.vinyaaz.com");
+$chart->render();
+?>

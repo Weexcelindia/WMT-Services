@@ -1,0 +1,47 @@
+<html>
+<head>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+</head>
+<title>Owner Profile </title>
+<body>
+<form action="#" method="post" enctype="multipart/form-data">
+    <label>Store ID:</label><input type="text" name="store_id"><br>
+    <label>Owner Name</label><input type="text" name="OwnerName"><br>
+   <label>Profile Pic:</label><input type="file" name="ProfilePictureName">
+    <label>Owner ID :</label><input type="text" name="OwnerId"><br>
+    <input type="submit" name="submit" value="submit">
+    </form>
+
+<script type="text/javascript">
+    function AddProfilePicture_old(evt) {
+        var files = $("#filePicUpload").get(0).files;
+        if (files.length > 0) {
+            var data = new FormData();
+            /*for (i = 0; i < files.length; i++) {
+                data.append("file" + i, files[i]);
+                console.log(data);
+            }*/
+            data.append("userid", parseInt("1")); //id of logged in user
+            data.append("ProfilePictureName", "1.png");//existing profile picture name, just to delete the existing file before adding new file
+            data.append("file", files[0]);
+
+
+            $.ajax({
+                type: "POST",
+                //url: "http://localhost:4103/api/User/addProfilePicture",
+                url: "http://174.141.233.6/MY6/api/User/addProfilePicture",
+                contentType: false,
+                processData: false,
+                data: data,
+                success: function (results) {
+                    console.log(results);
+                }
+            });
+
+        }
+    }
+
+</script>
+
+</body>
+</html>

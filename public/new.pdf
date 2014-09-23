@@ -1,0 +1,206 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj 
+<</Type /Catalog /Version /1.4 /Pages 2 0 R /Names 5 0 R >>
+endobj
+2 0 obj 
+<</Type /Pages /Kids [6 0 R ] /Count 1 >>
+endobj
+3 0 obj 
+[]
+endobj
+4 0 obj 
+<</Names 3 0 R >>
+endobj
+5 0 obj 
+<</Dests 4 0 R >>
+endobj
+6 0 obj 
+<</Type /Page /LastModified (D:20140825071318+02'00') /Resources <</ProcSet [/Text ] /Font <</F1 8 0 R >> >> /MediaBox [0 0 595 842 ] 
+/Contents [7 0 R ] /Parent 2 0 R >>
+endobj
+7 0 obj 
+<</Length 20365 >>
+stream
+/F1 24 Tf
+BT
+72 720 Td
+(<div class="additional-info row-fluid">\r\n        <dl class="dl-horizontal metadata additional-info">\r\n            <dt class="des\
+cription">Description</dt>\r\n                <dd class="description">hi i am here</dd>\r\n            <dt class="additional-author"\
+>Additional Authors</dt>\r\n                <dd class="additional-author"><span class="property-delimiter-inline"><a title="Search\
+ for: Valade, Janet." href="/search;jsessionid=0A76AB22821E2B3E238111DE1387BC53?N=0&amp;Ntk=All&amp;Ntx=matchallpartial&amp;Ntt=\
+Valade%2c+Janet.">Valade, Janet.</a></span></dd>\r\n            <dt class="notes">Notes</dt>\r\n                <dd class="notes"><s\
+pan class="text-block">Contents note continued: Changing privileges Removing accounts Backing Up Your Database Backing up on Win\
+dows -- Backing up on Linux, Unix, and Mac Restoring Your Data -- Upgrading MySQL -- ch. 3 Designing and Building a Database -- \
+Designing a Database -- Choosing the data -- Organizing the data -- Creating relationships between tables\r\n        Storing diffe\
+rent types of data -- Designing a Sample Database -- Writing Down Your Design -- Building a Database -- Creating a new database \
+-- Creating and deleting a databaseAdding tables and specifying a primary key\r\n        Removing a table Changing the Database St\
+ructure ch. 4 Using the Database  Adding Information to a Database\r\n         Adding one row at a time Adding a bunch of data Loo\
+king at the Data in a Database Retrieving Information from a Database -- Retrieving specific information -- Retrieving data in a\
+ specific order -- Retrieving data from specific rows -- Combining information from more than one table --</span>\r\n         <spa\
+n class='text-block'>Contents note continued: Changing the location of your Document Root -- Changing the port number -- ch. 3 I\
+nstalling PHP -- Checking the PHP Installation -- Obtaining PHP -- Downloading from the PHP website -- Obtaining PHP for Windows\
+ -- Obtaining PHP for Linux -- Obtaining PHP for the Mac OS -- Obtaining all-in-one installation kits --\r\n          Verifying a \
+downloaded file -- Installing PHP -- Installing on Unix and Linux -- Installing on Mac OS X -- Installation options for Unix, Li\
+nux, and Mac -- Installing on Windows -- Configuring Your Web Server for PHP -- Configuring your web server on Windows -- Config\
+uring Apache on Linux and Mac -- Configuring PHP -- Testing PHP -- Troubleshooting -- Unable to change PHP settings\r\n          -\
+- Displays error message: Undefined function -- Displays a blank page or HTML output only -- ch. 4 Setting Up MySQL -- Checking \
+the MySQL Installation --\r\n          Finding out if MySQL is running or installed -- Starting MySQL -- Obtaining MySQL --</span>\
+\r\n          <span class='text-block'>Contents note continued: Creating a two-column layout -- Adding Headers and Footers to a Pa\
+ge -- Creating a header, header menu, and footer -- Examining the HTML and CSS files -- ch. 3 Creating and Styling Web Forms -- \
+Using Web Forms to Get Information -- Understanding web forms -- Looking at form elements -- Creating a Form -- All about the fo\
+rm element -- Adding a text input -- Adding a drop-down box -- Creating check boxes -- Using radio buttons -- Submitting and cle\
+aring the form --\r\n          Using CSS to Align Form Fields -- Book III JavaScript -- ch. 1 Understanding JavaScript Basics -- V\
+iewing the World of JavaScript -- JavaScript isn't Java -- Knowing what JavaScript can do -- Examining the Ways to Add JavaScrip\
+t to a Page -- Adding the JavaScript tag -- Adding JavaScript to a pages HTML -- Using external\r\n           JavaScript -- ch. 2 \
+Building a JavaScript Program -- Getting Started with JavaScript Programming -- Sending an alert to the screen -- Adding comment\
+s --</span><span class='text-block'>Contents note continued: Designing the Customer database -- Building\r\n            the Custom\
+er database -- Accessing the Customer database -- Creating Base Functions -- Creating Web Forms --\r\n             Creating the re\
+gistration pages -- Building a success page -- Creating the login page -- Creating a User Object -- Building the User class -- B\
+uilding the login-process PHP file -- Adding Authenticated Pages --\r\n             Building a protected page -- Building a log ou\
+t page -- Adding E-mail Functionality -- Building the password reset database -- Building the password recovery page -- Building\
+ the process files -- Building the class methods -- Book VII PHP and Templates -- ch. 1 Configuring PHP -- Understanding the php\
+.ini -- Working with the php.ini -- Making changes outside of the php.ini -- Understanding Common Configuration Changes -- Chang\
+ing session timeout -- Changing other session parameters -- Disabling functions and classes -- Changing error display -- Changin\
+g resource limits --</span>\r\n             <span class='text-block'>Contents note continued: Downloading from the MySQL website -\
+- Obtaining MySQL for Windows -- Obtaining MySQL for Linux and Unix -- Obtaining MySQL for Mac -- Obtaining all-in-one installat\
+ion kits -- Verifying a downloaded file -- Installing MySQL -- Running the MySQL Setup Wizard on Windows -- Installing MySQL on \
+Linux from an RPM file -- Installing MySQL on Mac from a DMG file -- Installing MySQL from source files -- Configuring MySQL -- \
+Starting and Stopping the MySQL Server -- Controlling the server on Windows -- Controlling the MySQL server on Linux and Mac\r\n  \
+            -- Testing MySQL -- Troubleshooting MySQL -- Displays error message: Access denied -- Displays error message: Client\
+ does not support authentication protocol -- Displays error message: Can't connect to -- MySQL error log -- The MySQL Administra\
+tion Program -- Activating MySQL Support -- Activating MySQL support on Windows -- Activating MySQL support on Linux and the Mac\
+ OS -- Checking MySQL support --</span>\r\n             <span class='text-block'>Contents note continued: Holding data for later i\
+n variables -- Holding multiple values in an array -- Creating strings to keep track of words -- Working with numbers -- Testing\
+ Things with Conditionals -- Performing Actions Multiple Times with Loops -- For what it's worth -- While you're here -- Using F\
+unctions to Avoid Repeating Yourself -- Creating functions -- Adding function arguments -- Calling a function -- Improving the a\
+ddNumbers function -- Returning results from functions -- Objects in Brief -- Creating objects -- Adding properties to objects -\
+- Working with HTML\r\n             Documents -- Accessing HTML\r\n             with JavaScript -- Using GetElementByld to access a \
+specific element -- Working with Web Browsers -- Detecting the browser -- Redirecting to another page -- ch.\r\n             3 Add\
+ing jQuery -- jQuery Introduced -- Installing jQuery -- Installing jQuery locally -- Using CDN-hosted jQuery -- Adding jQuery to\
+ a Page -- Adding local jQuery to a page -- Adding CDN jQuery to a page --</span><span class='text-block'>Contents note continue\
+d: Incorporating the jQuery readyO Function -- Selecting Elements with jQuery -- jQuery selectors up close -- Filtering -- Worki\
+ng with HTML Using jQuery -- Adding HTML to a page -- Changing elements -- Changing Attributes and Styles -- Reading attributes \
+-- Writing attributes -- Changing CSS -- ch. 4 Reacting to Events with JavaScript and jQuery -- Understanding\r\n             Even\
+ts -- Working with Forms -- Adding a Submit Handler -- Checking for blank fields -- Monitoring Mouse Events -- Capturing mouse c\
+licks -- Watching mouse\r\n              movements -- Reacting to Keyboard Events -- Counting characters -- Preventing character i\
+nput -- ch. 5 Troubleshooting JavaScript Programs -- Employing Basic JavaScript Troubleshooting Techniques -- Adding alerts -- U\
+sing comments in JavaScript -- Identifying JavaScript Problems with Firebug -- Installing Firebug -- Using Firebug -- Book IV PH\
+P -- ch. 1 Understanding PHP Basics -- How PHP Works --\r\n          Examining the Structure of a PHP Script --</span><span class=\
+'text-block'>Contents note continued: Looking at PHP Syntax -- Using simple statements -- Using complex statements -- Writing PH\
+P Code -- Displaying Content in a Web Page -- Using PHP Variables -- Naming a variable -- Creating and assigning values to varia\
+bles -- Using variable variables -- Displaying variable values -- Using PHP Constants -- Understanding Data Types -- Working wit\
+h integers and floating-point numbers -- Working with character strings -- Working with the Boolean data type -- Working with th\
+e NULL data type -- Using Arrays -- Creating arrays -- Viewing arrays -- Removing values from arrays -- Sorting arrays -- Gettin\
+g values from arrays -- Walking through an array -- Storing\r\n          values with multidimensional arrays -- Using Dates and Ti\
+mes -- Setting local time -- Formatting a date -- Storing a timestamp in a variable -- Understanding PHP Error Messages -- Types\
+ of PHP error messages -- Displaying error messages -- Logging error messages -- Adding Comments to Your PHP Script --</span><sp\
+an class='text-block'>Contents note continued: Making your document easier to maintain -- Adding lists and tables -- Practicing \
+Creating a Table -- Including Links and Images on Your Web\r\n           Page -- Adding links -- Adding images -- Writing Valid HT\
+ML -- Validating Your HTML -- ch. 2 Adding Style with CSS -- Discovering What CSS Can and Can't Do for Your Web Page -- What is \
+CSS? -- Why use CSS? -- Limitations of CSS -- Connecting CSS to a Page -- Adding styling to an HTML element -- Using an internal\
+ style sheet -- Using an external style sheet -- Targeting Styles -- Selecting HTML elements -- Selecting individual elements --\
+ Selecting a group of elements -- Changing Fonts -- Setting the font family -- Setting font size -- Setting the font color -- Ad\
+ding Borders -- Changing List Styles -- Changing bullet styles -- Removing bullets -- Adding a Background -- Changing the backgr\
+ound color -- Adding a background image -- Creating Page Layouts -- Creating a single-column layout --</span>\r\n           <span \
+class='text-block'>Contents note continued: Setting Up Your Local Computer for Development -- Installing the web server -- Insta\
+lling PHP -- Installing MySQL -- ch. 2 Installing a Web Server -- Testing Your Web Server -- Obtaining Apache -- Selecting a ver\
+sion of Apache -- Downloading from the Apache website -- Obtaining Apache for Windows -- Obtaining Apache for Linux -- Obtaining\
+ Apache for Mac -- Obtaining all-in-one installation kits -- Verifying a downloaded file -- Installing Apache -- Installing Apac\
+he on Windows -- Installing Apache on a Mac -- Installing Apache from source code on Linux and Mac -- Starting and Stopping Apac\
+he -- Starting and stopping Apache on Windows -- Starting\r\n           Apache on Linux, Unix, and Mac -- Restarting Apache on Lin\
+ux, Unix, and Mac -- Stopping Apache on Linux, Unix, and Mac -- Getting Information from Apache -- Getting Apache information on\
+ Windows -- Getting Apache information on Linux, Unix, and Mac -- Configuring Apache -- Changing settings --</span><span class='\
+text-block'>Contents note continued: Troubleshooting PHP and MySQL -- Displays error message: Undefined function -- MySQL functi\
+ons not activated \(Windows\) -- ch. 5 Setting Up Your Web Development Environment with the XAMPP Package -- Obtaining XAMPP -- In\
+stalling XAMPP -- Using the XAMPP Control Panel -- Testing Your Development Environment -- Opening the XAMPP web page -- Testing\
+ phpMyAdmin -- Testing PHP -- Configuring Your Development Environment -- Configuring PHP -- Configuring\r\n            Apache -- \
+Configuring MySQL -- Uninstalling and Reinstalling XAMPP -- Troubleshooting -- Book II HTML and CSS -- ch. 1 Creating a Basic Pa\
+ge with HTML -- Understanding the HTML Building Blocks -- Document types -- Sections of an HTML Document -- The root element -- \
+The head section and title element -- The body section -- Creating Good HTML -- Using the appropriate elements -- Putting text o\
+n a page -- Creating your first page -- Choosing block-level or inline elements -- Inserting line breaks and spaces --</span><sp\
+an class='text-block'>Contents note continued:\r\n             Understanding Web Services -- Returning Data from a Web Service -- \
+Returning the date -- Returning web service data from a database -- Accepting Input to a Web Service -- Querying with input data\
+ -- Returning XML results -- Returning JSON and XML -- ch. 3 Validating Web Forms with JavaScript and PHP -- Understanding How t\
+o Validate Web Forms -- Always assume bad data -- Never assume JavaScript -- Sometimes mirror client-and server-side validation \
+-- Performing Basic JavaScript Validation -- Looking at the form HTML and CSS -- Adding JavaScript validation -- Performing PHP \
+Validation -- Validating required fields -- Validating text -- Validating drop-downs, radio buttons, and check boxes -- Validati\
+ng numbers -- Validating URLs and e-mail addresses -- Making sure the passwords match -- Creating\r\n              a validation fu\
+nction -- ch. 4 Building a Members-Only Website -- Understanding a Members-Only Site -- Creating the User Database --</span><spa\
+n class='text-block'>Contents note continued: Understanding public and private properties and methods -- Writing the constructor\
+ -- Putting it all together -- Using a Class in a Script -- Using Abstract Methods in Abstract Classes and Interfaces -- Using a\
+n abstract class -- Using interfaces -- Preventing Changes to a Class or Method -- Handling Errors with Exceptions -- Copying Ob\
+jects -- Comparing Objects -- Getting Information about Objects and Classes -- Destroying Objects -- ch. 5 Considering PHP Secur\
+ity -- Securing the Server -- Hardening the server -- Using a firewall -- Securing Apache -- Securing PHP applications with\r\n   \
+           SuExec -- mod_security -- Setting Security Options in php.ini -- Handling Errors Safely -- Understanding\r\n           \
+   the dangers -- Testing for unexpected input -- Handling the unexpected -- Checking all form data -- Sanitizing Variables -- C\
+onverting HTML special characters -- Uploading Files without Compromising the Filesystem -- Avoiding DoS attacks on the filesyst\
+em --</span><span class='text-block'>Contents note continued: Updating Information in a Database -- Removing Information from a \
+Database -- ch. 5 Communicating with the Database from PHP Scripts -- Knowing How MySQL and PHP Work Together -- PHP Functions T\
+hat Communicate with MySQL -- Communicating with MySQL -- Connecting to the MySQL server -- Sending an SQL statement -- Sending \
+multiple queries -- Selecting a Database -- Handling MySQL Errors -- Using Other Helpful mysqli Functions -- Counting the number\
+ of rows returned by a query -- Determining the last auto entry -- Counting\r\n              affected rows -- Escaping characters \
+-- Converting mysqli Functions to mysql Functions -- Book VI Web Applications -- ch. 1 Improving Your PHP Programs -- Automatica\
+lly Including Helper Functions -- Using auto_prepend_file -- Starting sessions with a prepended file -- Using classes for effici\
+ency -- Reusing Code -- Using functions -- Using object-oriented programming -- ch. 2 Creating and Using a Web Service --</span>\
+<span class='text-block'>Contents note continued: Using the exec function -- Using the passthru function -- Accessing error mess\
+ages from system commands -- Understanding security issues -- Using FTP -- Logging in to the FTP server -- Getting a directory l\
+isting -- Downloading and uploading files with FTP -- Looking at other FTP functions -- Reading and Writing Files -- Accessing f\
+iles -- Writing to a file -- Reading\r\n              from a file -- Exchanging Data with Other Programs -- Exchanging data in fla\
+t files -- Exchanging data in comma-delimited format -- Using other delimiters -- Using SQLite -- ch. 4 Object-Oriented Programm\
+ing -- Introducing Object-Oriented Programming -- Objects and classes -- Properties -- Methods -- Inheritance -- Developing an O\
+bject-Oriented Script -- Choosing objects -- Selecting properties and methods for each object -- Creating and using an object --\
+ Defining a Class -- Writing a class statement -- Setting properties -- Accessing properties using this -- Adding methods --</sp\
+an><span class='text-block'>Contents note continued: Validating files -- Using FTP functions to ensure safe file uploads -- ch. \
+6 Tracking Visitors with Sessions -- Understanding Sessions and Cookies -- Looking at sessions -- Working\r\n               with c\
+ookies -- Checking if cookies are enabled -- Using Sessions to Pass Data -- Starting a session -- Closing a session -- Using ses\
+sion_write_closeO -- Understanding Other Session Options -- Book V MySQL -- ch. 1 Introducing MySQL -- Examining How MySQL Works\
+ -- Understanding Database Structure -- Communicating with MySQL -- Building SQL queries -- Sending SQL queries -- Using the mys\
+ql client -- Protecting Your MySQL Databases -- ch. 2 Administering MySQL -- Understanding the Administrator Responsibilities --\
+ Default Access to Your Data -- Controlling Access to Your Data -- Account names and hostnames -- Passwords -- Account privilege\
+s -- Setting Up MySQL Accounts -- Identifying what accounts currently exist -- Adding accounts -- Adding and changing passwords \
+--</span>\r\n               <span class='text-block'>Contents note continued: ch. 2 Building PHP Scripts -- Setting Up Conditions \
+-- Comparing values -- Checking variable content -- Pattern matching with regular expressions -- Joining multiple comparisons --\
+ Using Conditional Statements -- Using if statements -- Using switch statements -- Repeating Actions with Loops -- Using for loo\
+ps -- Using while loops -- Using do. while loops -- Avoiding infinite loops -- Breaking out of a loop -- Using Functions -- Crea\
+ting a function -- Using variables in functions -- Passing values to a function -- Returning a value from a function -- Using bu\
+ilt-in functions -- Organizing Scripts -- Separating display code from logic code -- Reusing code -- Organizing with functions -\
+- Organizing with include files -- ch. 3 PHP and Your Operating System -- Managing\r\n               Files -- Getting information \
+about files -- Copying, renaming, and deleting files -- Organizing files -- Using Operating System Commands -- Using backticks -\
+- Using the system function --</span><span class='text-block'>Contents note continued: ch. 2 Building a Templating System -- Und\
+erstanding Template Systems -- Building a PHP Template -- Creating a template class -- Creating the top of the page -- Creating \
+the bottom of the page -- Connecting the top, bottom, and middle -- Extending the Template -- Building an About page -- Building\
+ a Contact page.</span>\r\n               <span class='text-block'>Contents: About This Book -- Foolish Assumptions -- How This Bo\
+ok Is Organized -- Book I: Getting Started with PHP and MySQL -- Book II: HTML and CSS -- Book III: JavaScript -- Book IV: PHP -\
+- Book V: MySQL -- Book VI: Web Applications -- Book VII: PHP and Templates -- Companion Website -- Icons Used in This Book -- W\
+here to Go from Here -- Book I Getting Started with PHP &amp; MySQL -- ch. 1 Understanding the Languages of the Web -- Understan\
+ding How the Web Works -- The web browser -- The web server -- Understanding Web Page Languages -- Marking up with HTML -- Styli\
+ng pages\r\n                with CSS -- Changing behaviors with JavaScript -- Understanding the Language of Web Servers -- Buildin\
+g dynamic web applications with PHP and MySQL -- Sending the page to the browser with Apache -- Choosing How You Want to Develop\
+ -- Choosing a host for your website -- Hosting for a company website -- Choosing a web-hosting company -- Using a hosted websit\
+e --</span><span class='text-block'>Includes index.</span><span class='text-block'>Summary: In charge of a website? Here's what \
+you need to know about key web technologies! Learn how the four essential web technologies work together to create web services,\
+ validate web forms, and set up a members-only site!</span></dd>\r\n            </dl></div>) Tj
+ET
+
+endstream
+endobj
+8 0 obj 
+<</Type /Font /Encoding /WinAnsiEncoding /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 9 
+0000000000 65535 f 
+0000000015 00000 n 
+0000000091 00000 n 
+0000000149 00000 n 
+0000000168 00000 n 
+0000000202 00000 n 
+0000000236 00000 n 
+0000000423 00000 n 
+0000020841 00000 n 
+trailer
+<</ID [<65376231383631363433386662346439> <33393539343439653862656639613864> ] /Size 9 /Root 1 0 R >>
+startxref
+20938
+%%EOF
